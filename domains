@@ -1,0 +1,13 @@
+*.hdslb.com  # BiliBili Assets CDN
+*.bilivideo.cn  # BiliBili Video CDN
+*.bilivideo.com # BiliBili Video CDN
+*.bdstatic.com  # Baidu Assets CDN
+*.zhimg.com # ZhiHu Image CDN
+*.vzuu.com  # ZhiHu Video CDN
+*.douyinvod.com # Douyin Video CDN
+*.douyinpic.com # Douyin Photo CDN
+*.sinaimg.cn  # Sina Image CDN
+*.weibocdn.com  # Weibo Vid CDN
+ci.xiaohongshu.com  # RedBook Photo1
+*.xhscdn.com  # RedBook CDN
+v.xiaohongshu.com # Redbook Video
